@@ -6,6 +6,8 @@ public class ClientApp {
 	{
 		Person p= new Person("jay",101,90.0);
 		System.out.print(p);
+		Person p1= new Person("vijay",102,91.0);
+		System.out.print(p);
 	}
 
 }
