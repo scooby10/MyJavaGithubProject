@@ -8,6 +8,8 @@ public class ClientApp {
 		System.out.print(p);
 		Person p1= new Person("vijay",102,91.0);
 		System.out.print(p);
+		Person p2= new Person("sanjay",103,92.0);
+		System.out.print(p);
 	}
 
 }
